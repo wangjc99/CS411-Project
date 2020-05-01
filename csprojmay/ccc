@@ -1,0 +1,5 @@
+https://accounts.spotify.com/authorize?client_id=a5ed2648aaed434d8f4fbe45d30a5cb6&redirect_uri=http://localhost:5000&response_type=token
+
+http://localhost:5000/?code=AQAtYSCuOPzqMbMSx5hSjHIZBTyeAL87V2L8HwpL-vF9itSwfddFYnKy0XaXhwu_gDi0SxLsKHtMcvKO6RbbuuffRKdT8S44X9ogaZ2SKNSPiECiDCnTt2ckYqidC7ioc4EMjYzyBwugN_j9SvrMEBz3sEOrE8MoimnrbNjpQB9q2sS7O982Tzsrlg
+
+http://localhost:5000/#access_token=BQBZOwpLorN-MhxJ2mP7Ib6ZcjsZEgnTvBBN-AcA9DGQQK4a00GFuKFN1IhsmnlNHDY3zWVW8_qf_m_tnTifBIB8ozvNsMadLon3WhcOWl77RqkZq2H-LXHd_R4VL7DE_Tgs8OfeMNw1R67b&token_type=Bearer&expires_in=3600
